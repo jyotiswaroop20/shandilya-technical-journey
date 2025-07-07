@@ -37,6 +37,11 @@ Jyotiswaroop Tripathi
 Linux System Administrator & Programming Enthusiast
 Project under The Linux Diary GitHub Series
 E-mail- jyotiswaroop.niit1@gmail.com
-
+```
+## ❤️ Support
+```
+If you like this project, feel free to ⭐ star the repo and share with others.
+Pull requests and feedback are always welcome!
+```
 
 
