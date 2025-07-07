@@ -37,6 +37,7 @@ Jyotiswaroop Tripathi
 Linux System Administrator & Programming Enthusiast
 Project under The Linux Diary GitHub Series
 E-mail- jyotiswaroop.niit1@gmail.com
+Location - Gorakhpur, Uttar Pradesh, India
 ```
 ## ❤️ Support
 ```
