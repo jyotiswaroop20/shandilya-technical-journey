@@ -27,8 +27,8 @@ Goodbye jyotiswaroop, You logged out at 06 July 2025 07:54 PM
 ```
 welcome_logout_msg_program/
 ├── welcome_logout_msg.c        # Main source code (C)
-├── loginlogoutmsg          # Compiled binary (optional)
-└── README.md         # This file
+├── loginlogoutmsg              # Compiled binary (optional)
+└── README.md                   # This file
 ```
 ## 🛠️ Compilation & Usage
 ```
