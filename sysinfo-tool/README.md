@@ -1,13 +1,13 @@
-📦 **Project Name: sysinfo – A Linux System Info Command-Line Tool in C**
+# 📦Project Name: sysinfo – A Linux System Info Command-Line Tool
 
-🛠️ **Description:** 
+## 🛠️Description:
 ```
 sysinfo is a lightweight and efficient command-line utility built in C,designed to give system administrators instant visibility into the health and status of a Linux system.  
 
 With a single command, sysinfo aggregates and displays all essential metrics — saving time, simplifying diagnostics, and aiding quick decision-making in production and server environments.
 ```
 
-📋 **Features:-----**
+## 📋Features:-----
 ```
 ✅ Hostname display  
 ⏱️ System Uptime (in hours and minutes)  
@@ -18,7 +18,7 @@ With a single command, sysinfo aggregates and displays all essential metrics —
 👤 Logged-in Users (with usernames)  
 📊 Running Processes Count  
 ```
-📸 **Sample Output:**  
+## 📸Sample Output:
 ```
 ===== System Information =====
 Hostname        : my-Linux-pc
@@ -31,7 +31,7 @@ Users Logged In : user1, user2 (2 users)
 Running Procs   : 112
 =================================
 ```
-**👨‍💻 Developed By**
+## 👨‍💻 Developed By
 ```
 Jyotiswaroop Tripathi
 Linux System Administrator & Programming Enthusiast
