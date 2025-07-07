@@ -38,7 +38,7 @@ As a Linux enthusiast, I created this repo to document and share my learning jou
 - 🔗 [LinkedIn](https://www.linkedin.com/in/jyotiswaroop-tripathi-6551b9343)  
 - 📧 Jyotiswaroop.niit1@gmail.com  
 - 🐙 GitHub: [jyotiswaroop20](https://github.com/jyotiswaroop20)
-
+- 📍 Location: Gorakhpur, Uttar Pradesh, India
 ---
 
 > “In a world full of GUIs, I chose the command line.” — A Linux Lover
