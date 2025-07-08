@@ -12,7 +12,7 @@ Welcome to my personal Linux lab! This repository contains my hands-on practice,
 🔹 Docker container experiments
 🔹 Basic AWS services like EC2 & S3
 🔹 Troubleshooting examples and shell scripts
-🔹 My All starting level project
+🔹 My all starting level project
 ```
 ## 💡 Why This Repo?
 
