@@ -6,7 +6,6 @@ Welcome to my personal Linux lab! This repository contains my hands-on practice,
 ---
 
 ## 🔧 What You'll Find Here
-
 🔹 Linux server setup (RHEL/CentOS)
 🔹 Apache, Nginx, FTP, SSH, DNS, DHCP, and Samba configurations
 🔹 Basic firewall and security setups
@@ -14,6 +13,7 @@ Welcome to my personal Linux lab! This repository contains my hands-on practice,
 🔹 Docker container experiments
 🔹 Basic AWS services like EC2 & S3
 🔹 Troubleshooting examples and shell scripts
+🔹 My All starting level project
 
 ---
 
