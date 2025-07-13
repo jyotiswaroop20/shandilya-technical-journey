@@ -1,0 +1,23 @@
+name: Linux Shell Script CI
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v3
+
+    - name: Run Health Check Script
+      run: |
+        echo "Running system health check..."
+        uname -a
+        df -h
+        free -m
+
