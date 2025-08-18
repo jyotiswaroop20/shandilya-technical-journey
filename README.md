@@ -32,15 +32,32 @@ This repository contains my **hands-on practice, configs, and automation scripts
 ## 🚀 Tools & Tech Used  
 
 <p align="center">
+  <!-- Base OS -->
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+  
+  <!-- Web Servers -->
   <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" />
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  
+  <!-- File & Sharing -->
   <img src="https://img.shields.io/badge/Samba-2C6BAC?style=for-the-badge&logo=samba&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/FTP-0077B5?style=for-the-badge&logo=filezilla&logoColor=white" />
+  
+  <!-- Network -->
   <img src="https://img.shields.io/badge/DNS-FF9800?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/DHCP-673AB7?style=for-the-badge&logo=ubiquiti&logoColor=white" />
+  <img src="https://img.shields.io/badge/SSH-000000?style=for-the-badge&logo=openssh&logoColor=white" />
+  
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  
+  <!-- Security -->
+  <img src="https://img.shields.io/badge/Firewall-E53935?style=for-the-badge&logo=fortinet&logoColor=white" />
+  <img src="https://img.shields.io/badge/SELinux-795548?style=for-the-badge&logo=redhat&logoColor=white" />
 </p>
-
 
 - **Operating Systems:** RHEL / CentOS / AlmaLinux  
 - **Scripting:** Bash / Shell  
