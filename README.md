@@ -9,9 +9,6 @@
 ## 🐧 About This Repo
 Welcome to **The Linux Diary** – my personal space where I document everything I learn about **Linux**.  
 Here I share my **experiments, configs, troubleshooting notes, and shell scripts** as I grow as a Linux enthusiast.  
-
-## 🐧 Linux Lover Labs
-Welcome to my personal **Linux Lab**! 🚀  
 This repository contains my **hands-on practice, configs, and automation scripts** built during my journey as a **self-taught Linux System Administrator** and a **future DevOps Engineer**.  
 
 > *“In a world full of GUIs, I chose the command line.”* — A Linux Lover ❤️
