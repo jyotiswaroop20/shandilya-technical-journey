@@ -32,8 +32,15 @@ This repository contains my **hands-on practice, configs, and automation scripts
 ## 🚀 Tools & Tech Used  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash" />
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Samba-2C6BAC?style=for-the-badge&logo=samba&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/DNS-FF9800?style=for-the-badge&logo=cloudflare&logoColor=white" />
 </p>
+
 
 - **Operating Systems:** RHEL / CentOS / AlmaLinux  
 - **Scripting:** Bash / Shell  
