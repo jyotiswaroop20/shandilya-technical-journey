@@ -28,7 +28,7 @@ As a Linux enthusiast, I created this repo to document and share my learning jou
 
 ## 📬 Connect With Me
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/jyotiswaroop-tripathi-6551b9343)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/jyoti-swaroop-mani-tripathi-741980379/)  
 - 📧 Jyotiswaroop.niit1@gmail.com  
 - 🐙 GitHub: [jyotiswaroop20](https://github.com/jyotiswaroop20)
 - 📍 Location: Gorakhpur, Uttar Pradesh, India
