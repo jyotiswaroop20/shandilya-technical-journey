@@ -149,9 +149,9 @@ sudo grubby --set-default /boot/vmlinuz-<old-version>
 
 ## 🧑‍💻 Author
 
-**Jyotiswarup Tripathi**  
+**Jyotiswaroop Tripathi**  
 Self-taught **Linux System Administrator & DevOps Engineer**  
-🌐 [GitHub](https://github.com/jyotiswaroop20) | 🔗 [Portfolio Website](#)  
+🌐 [LinkedIn](https://www.linkedin.com/in/jyoti-swaroop-mani-tripathi-741980379/) | 🔗 [Portfolio Website](https://jyotiswaroop20.github.io/shandilya-portfolio-website/)
 
 ---
 
