@@ -150,8 +150,9 @@ sudo grubby --set-default /boot/vmlinuz-<old-version>
 ## 🎨 Screenshots / Demo (Optional)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/<your-github-username>/<your-repo>/main/assets/kernel-menuconfig.png" width="600" alt="Kernel MenuConfig Screenshot">
+  <img src="https://raw.githubusercontent.com/jyotiswaroop20/linux-kernel-demo/main/assets/kernel-menuconfig.png" width="600" alt="Kernel MenuConfig Screenshot">
 </p>
+
 
 ---
 
