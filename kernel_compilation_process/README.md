@@ -145,6 +145,8 @@ sudo grubby --set-default /boot/vmlinuz-<old-version>
 - [x] Updated GRUB + rebooted  
 - [x] Verified with `uname -r`  
 
+---
+
 ## 🧑‍💻 Author
 
 **Jyotiswarup Tripathi**  
