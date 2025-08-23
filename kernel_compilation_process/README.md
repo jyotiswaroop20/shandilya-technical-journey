@@ -145,17 +145,6 @@ sudo grubby --set-default /boot/vmlinuz-<old-version>
 - [x] Updated GRUB + rebooted  
 - [x] Verified with `uname -r`  
 
----
-
-## 🎨 Screenshots / Demo (Optional)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jyotiswaroop20/linux-kernel-demo/main/assets/kernel-menuconfig.png" width="600" alt="Kernel MenuConfig Screenshot">
-</p>
-
-
----
-
 ## 🧑‍💻 Author
 
 **Jyotiswarup Tripathi**  
