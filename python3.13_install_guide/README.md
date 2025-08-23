@@ -212,37 +212,5 @@ which python          # Shows path of python command
 
 ---
 
-## 🎨 Extras for GitHub README
-
-* Animated typing header:
-
-```markdown
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=4FC08D&center=true&width=600&lines=Python+3.13+Build+%26+Management" />
-</h1>
-```
-
-* Badges:
-
-```markdown
-![Python](https://img.shields.io/badge/Python-3.9%20%7C%203.13-blue)
-![Status](https://img.shields.io/badge/Status-Updated-green)
-```
-
-* Collapsible blocks:
-
-````markdown
-<details>
-<summary>Click to see alternatives switch example</summary>
-
-```bash
-sudo alternatives --config python
-````
-
-</details>
-```
-
----
-
 ✅ यह **README.md** एकदम **step-by-step, future-proof, attractive GitHub-ready** guide है जो Python 3.13 build, install, alias, alternatives, version switch और removal cover करता है।
 
