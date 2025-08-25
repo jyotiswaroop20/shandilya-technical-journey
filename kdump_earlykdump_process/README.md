@@ -124,7 +124,7 @@ Reboot के बाद dump: `ls -lh /var/crash/*`
 ```
 vmcore            -> RAM snapshot (binary)
 vmcore-dmesg.txt  -> crash के समय के kernel logs (text file)
-
+```
 ---
 
 ## 🌀 F) Early‑boot crash test — **दो तरीके**
