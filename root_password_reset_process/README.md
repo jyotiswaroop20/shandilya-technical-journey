@@ -138,9 +138,10 @@ RHEL/AlmaLinux पर SELinux enabled रहता है। जब आप emerg
 > **ध्यान दें:** नीचे दिए गए कमांड का उपयोग केवल authorized systems पर ही करें।
 
 ```bash
-# GRUB edit -> append rd.break -> boot
+# GRUB edit -> append rd.break enforcing=0-> boot
 # initramfs shell:
 mount -o remount,rw /sysroot
+mount | grep /sysroot (verify it has been mounted in read-write mode or not)
 chroot /sysroot
 passwd root
 touch /.autorelabel
