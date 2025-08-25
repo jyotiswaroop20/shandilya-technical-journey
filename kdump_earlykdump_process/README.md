@@ -120,7 +120,7 @@ echo 'kernel.sysrq = 1' > /etc/sysctl.d/99-sysrq.conf
 echo c > /proc/sysrq-trigger
 ```
 Reboot के बाद dump: `ls -lh /var/crash/*`
-आमतौर पर:
+# आमतौर पर:
 ```
 vmcore            -> RAM snapshot (binary)
 vmcore-dmesg.txt  -> crash के समय के kernel logs (text file)
