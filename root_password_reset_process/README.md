@@ -100,7 +100,7 @@ reboot
 ---
 
 ## SELinux और `.autorelabel` का महत्त्व
-RHEL/AlmaLinux पर SELinux enabled रहता है। जब आप emergency में `chroot` कर के `passwd` बदलते हैं, तो कई बार SELinux labels mismatch हो सकते हैं — इसलिए `touch /.autorelabel` करना ज़रूरी है ताकि अगले बूट पर system इर automatic relabel कर दे। अगर यह नहीं किया तो SELinux denials से लॉगिन न हो या services fail कर सकती हैं।
+RHEL/AlmaLinux पर SELinux enabled रहता है। जब आप emergency में `chroot` कर के `passwd` बदलते हैं, तो कई बार SELinux labels mismatch हो सकते हैं — इसलिए `touch /.autorelabel` करना ज़रूरी है ताकि अगले बूट पर system automatic relabel कर दे। अगर यह नहीं किया तो SELinux denials से लॉगिन न हो या services fail कर सकती हैं।
 
 ---
 
@@ -149,8 +149,3 @@ exit
 ```
 
 ---
-
-## अगर आप चाहें तो मैं यह README एक Markdown फ़ाइल के रूप में तैयार करके आपको दे सकता हूँ ताकि आप उसे download कर सकें।
-
-**(End of README)**
-
