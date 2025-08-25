@@ -121,6 +121,7 @@ echo c > /proc/sysrq-trigger
 ```
 Reboot के बाद dump: `ls -lh /var/crash/*`
 आमतौर पर:
+---
 vmcore            -> RAM snapshot (binary)
 vmcore-dmesg.txt  -> crash के समय के kernel logs (text file)
 
