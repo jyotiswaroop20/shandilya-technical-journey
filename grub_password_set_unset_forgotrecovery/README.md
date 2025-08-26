@@ -63,7 +63,7 @@ Without GRUB password protection, attackers can:
    ```bash
    vim /etc/grub2.cfg
    # Comment lines with "username" or "password_pbkdf2"
-   # and If you want to activate the password again, simply uncomment this line of code — that’s it.
+   Now in future, If you want to activate the password again, simply uncomment this line of code — that’s it.
    ```
 
 
