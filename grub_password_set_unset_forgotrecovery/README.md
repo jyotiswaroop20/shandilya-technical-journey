@@ -85,7 +85,7 @@ If you forget **both GRUB password and root password**, recovery requires bootin
 
 5. Edit GRUB configuration and remove password protection:
    ```bash
-   vim /etc/grub2.cfg # Comment or delete lines with "username" or "password_pbkdf2"
+   vim /etc/grub2.cfg # Comment or delete lines with "username" or "password_pbkdf2 and save fule by **wq!** in vim editor"
    touch /.autorelabel
    exit
    exit or reboot again by setting/selecting boot-up first priority hard-disk from BIOS boot menu Because your system was currently booted from the ISO image…
