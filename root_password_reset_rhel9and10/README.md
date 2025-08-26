@@ -18,9 +18,9 @@
 ## 🛠️ Steps to Reset Root Password (RHEL 10)
 
 ### 1. Boot into Rescue Mode
-- Insert **RHEL 10 Installation ISO/DVD**.
+- Boot **RHEL 10 from ISO/DVD**.
 - In boot menu → select **Troubleshooting**.
-- Choose **Rescue a Red Hat Enterprise Linux system** → Press **Enter** (⚠️ don’t press `e` here).
+- Then Choose **Rescue a Red Hat Enterprise Linux system** → Press **Enter** (⚠️ don’t press `e` here).
 
 ---
 
