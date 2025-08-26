@@ -58,13 +58,11 @@ Without GRUB password protection, attackers can:
 
 4. Reboot → No password protection.
 
-#OR 
-if you want the user.cfg file to remain exactly as it is with all its current settings, without removing any file, but only want to deactivate the grub password field that is currently active — so that later, whenever you want, you can simply activate the password again by changing it in one place — then the method is as follows: --------
-
+#### OR if you want the user.cfg file to remain exactly as it is with all its current settings, without removing any file, but only want to deactivate the grub password field that is currently active — so that later, whenever you want, you can simply activate the password again by changing it in one place — then the method is as follows: --------
 ####  EDIT GRUB CONFIGURATION AND REMOVE PASSWORD PROTECTION:
    ```bash
    vim /etc/grub2.cfg
-   # Comment or delete lines with "username" or "password_pbkdf2"
+   # Comment lines with "username" or "password_pbkdf2"
    #### and If you want to activate the password again, simply uncomment this line of code — that’s it.
    ```
 
