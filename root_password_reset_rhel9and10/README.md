@@ -79,7 +79,7 @@ System will reboot → SELinux will relabel automatically → 🎉 Login with yo
 
 > नीचे दिए गए तीन scenarios से **फर्क स्पष्ट** समझ आएगा और user सही path follow कर सकेगा:
 
-### ✅ AlmaLinux 9 (जब main kernel से करना हो)
+### ✅ AlmaLinux 9 (Use main kernel for Booting like RHEL/AlmaLinux-8)
 1. Boot पर GRUB menu में **main kernel** entry select करें।  
 2. `e` दबाकर kernel line edit करें।  
 3. `linux` (या `linux16`) वाली line के अंत में जोड़ें:  
@@ -97,7 +97,7 @@ System will reboot → SELinux will relabel automatically → 🎉 Login with yo
    reboot
    ```
 
-### ✅ RHEL 9 (जब **Rescue kernel** से करना हो)
+### ✅ RHEL 9 (USE **Rescue kernel** for Booting)
 1. GRUB menu में **Rescue kernel** (या “Red Hat Enterprise Linux (rescue)”) entry चुनें।  
 2. `e` दबाकर kernel line edit करें और अंत में जोड़ें:  
    ```
