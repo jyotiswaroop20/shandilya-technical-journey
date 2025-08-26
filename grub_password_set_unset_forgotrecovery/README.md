@@ -58,7 +58,8 @@ Without GRUB password protection, attackers can:
 
 4. Reboot → No password protection.
 
-### OR IF YOU WANT THE USER.CFG FILE TO REMAIN EXACTLY AS IT IS WITH ALL ITS CURRENT SETTINGS, WITHOUT REMOVING ANY FILE, BUT ONLY WANT TO DEACTIVATE THE GRUB PASSWORD FIELD THAT IS CURRENTLY ACTIVE — SO THAT LATER, WHENEVER YOU WANT, YOU CAN SIMPLY ACTIVATE THE PASSWORD AGAIN BY CHANGING IT IN ONE PLACE — THEN THE METHOD IS AS FOLLOWS:--------
+#OR 
+if you want the user.cfg file to remain exactly as it is with all its current settings, without removing any file, but only want to deactivate the grub password field that is currently active — so that later, whenever you want, you can simply activate the password again by changing it in one place — then the method is as follows: --------
 
 ####  EDIT GRUB CONFIGURATION AND REMOVE PASSWORD PROTECTION:
    ```bash
