@@ -66,11 +66,11 @@ System will reboot → SELinux will relabel automatically → 🎉 Login with yo
 
 ## 📊 Quick Comparison: RHEL 9 vs RHEL 10
 
-| Feature              | RHEL 9 (`rd.break`)                 | RHEL 10 (`Rescue Mode`)          |
+| Feature              | RHEL 9 (`rd.break` from rescue kernel)| RHEL 10 (`Rescue Mode` from ISO)|
 |----------------------|--------------------------------------|----------------------------------|
 | `chroot` available   | ✅ Yes                              | ❌ Not in initramfs, only in ISO |
 | Need remount         | ✅ `mount -o remount,rw /sysroot`   | ❌ Not needed                    |
-| Tool used            | `chroot /sysroot`                   | `chroot /mnt/sysimage`           |
+| Tool used            | `chroot /sysroot`                   | `chroot /mnt/sysimage`            |
 | Media required       | ❌ No                               | ✅ Yes (Installation ISO/DVD)    |
 
 ---
