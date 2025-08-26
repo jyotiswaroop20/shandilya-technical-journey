@@ -108,7 +108,7 @@ System will reboot → SELinux will relabel automatically → 🎉 Login with yo
    ```bash
    mount -o remount,rw /sysroot
    chroot /sysroot
-   passwd **(Here you can write "passwd" command directlty no need to write user-name "root" because u are already logged in root account)**
+   passwd (Here you can write "passwd" command directlty no need to write user-name "root" because u are already logged in root account)
    touch /.autorelabel
    exit
    reboot
