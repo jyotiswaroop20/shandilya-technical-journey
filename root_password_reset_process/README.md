@@ -1,9 +1,9 @@
-# Reset Forgotten Root Password — RHEL / AlmaLinux 9 / 10
+# Reset Forgotten Root Password — RHEL-8 / AlmaLinux 9 / 10
 
 > **भाषा:** हिन्दी
 
 ## सार (Summary)
-यह README दस्तावेज़ RHEL 9 / AlmaLinux 9/10 पर `root` पासवर्ड भूल जाने की स्थिति में सुरक्षित और समर्थित तरीकों से पासवर्ड रीसेट करने का step‑by‑step तरीका बताता है। इसमें `rd.break` (initramfs break) method, rescue ISO method, और cloud/VM specific विकल्प शामिल हैं।
+यह README दस्तावेज़ RHEL-8 / AlmaLinux 9/10 पर `root` पासवर्ड भूल जाने की स्थिति में सुरक्षित और समर्थित तरीकों से पासवर्ड रीसेट करने का step‑by‑step तरीका बताता है। इसमें `rd.break` (initramfs break) method, rescue ISO method, और cloud/VM specific विकल्प शामिल हैं।
 
 **महत्वपूर्ण सुरक्षा नोट:** यह गाइड केवल उन सिस्टम्स के लिए है जिनके आप मालिक/अधिकारिता (authorized) हैं। बिना अनुमति किसी सिस्टम का पासवर्ड बदलना अवैध और अनैतिक है।
 
