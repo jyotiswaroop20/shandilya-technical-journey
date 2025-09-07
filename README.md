@@ -1,77 +1,82 @@
-<h1 align="center">🐧 The Linux Diary 🐧</h1>
+<h1 align="center">🚀 My Tech Journey 🚀</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=36BCF7&center=true&vCenter=true&width=600&lines=A+Diary+of+my+Linux+Journey;Learning+Linux+Every+Day+🐧;Commands+%7C+Configs+%7C+Shell+Scripts" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=36BCF7&center=true&vCenter=true&width=700&lines=Learning+By+Doing;C+Language+Projects;Python+Projects;Linux+Servers+%7C+Automation+%7C+Configs;A+Diary+of+My+Tech+Growth" />
 </p>
 
 ---
 
-## 🐧 About This Repo
-Welcome to **The Linux Diary** – my personal space where I document everything I learn about **Linux**.  
-Here I share my **experiments, configs, troubleshooting notes, and shell scripts** as I grow as a Linux enthusiast.  
-This repository contains my **hands-on practice, configs, and automation scripts** built during my journey as a **self-taught Linux System Administrator** and a **future DevOps Engineer**.  
+## 📖 About This Repo
+Welcome to **My Tech Journey** – a personal space where I document everything I’ve learned and built while exploring **C programming, Python, and Linux System Administration**.  
 
-> *“In a world full of GUIs, I chose the command line.”* — A Linux Lover ❤️
+Here you’ll find:  
+- My **C language projects** (logic building + system programming)  
+- My **Python projects** (automation + scripting)  
+- My **Linux learning notes, server configs, and troubleshooting examples**  
+- Hands-on **system administration, networking, and security setups**  
+- **Shell/Bash scripts** for automation  
+
+> *“Code. Learn. Break. Fix. Repeat.”* — My Developer Journey ❤️
 
 ---
 
 ## 🔧 What You'll Find Here  
-🔹 Linux server setup (RHEL / CentOS / AlmaLinux)  
-🔹 User, group, and permission management  
-🔹 Apache, Nginx, FTP, SSH, DNS, DHCP, and Samba configs  
-🔹 Firewall & basic security setups  
-🔹 Troubleshooting examples  
-🔹 Bash / Shell scripting practice  
-🔹 My beginner Linux projects  
+🔹 **C Language Projects** → Small to medium projects built after fully learning C  
+🔹 **Python Projects** → Automation scripts, system utilities, and practice codes  
+🔹 **Linux Admin & Servers** → Apache, Nginx, FTP, SSH, DNS, DHCP, Samba  
+🔹 **User, Group, and Permissions** → Complete user audit + access management  
+🔹 **Security** → Firewall, SELinux, and troubleshooting  
+🔹 **Shell/Bash Scripting** → Automating daily sysadmin tasks  
+🔹 **Mini Projects** → Combining C/Python/Linux into practical tools  
 
 ---
 
 ## 🚀 Tools & Tech Used  
 
 <p align="center">
-  <!-- Base OS -->
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
+  <!-- Programming -->
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
   
+  <!-- Linux -->
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/RHEL/CentOS/AlmaLinux-EE0000?style=for-the-badge&logo=redhat&logoColor=white" />
+
   <!-- Web Servers -->
   <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" />
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
   
-  <!-- File & Sharing -->
-  <img src="https://img.shields.io/badge/Samba-2C6BAC?style=for-the-badge&logo=samba&logoColor=white" />
-  <img src="https://img.shields.io/badge/FTP-0077B5?style=for-the-badge&logo=filezilla&logoColor=white" />
-  
-  <!-- Network -->
+  <!-- Networking -->
   <img src="https://img.shields.io/badge/DNS-FF9800?style=for-the-badge&logo=cloudflare&logoColor=white" />
   <img src="https://img.shields.io/badge/DHCP-673AB7?style=for-the-badge&logo=ubiquiti&logoColor=white" />
   <img src="https://img.shields.io/badge/SSH-000000?style=for-the-badge&logo=openssh&logoColor=white" />
   
   <!-- Databases -->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  
+
   <!-- Security -->
   <img src="https://img.shields.io/badge/Firewall-E53935?style=for-the-badge&logo=fortinet&logoColor=white" />
   <img src="https://img.shields.io/badge/SELinux-795548?style=for-the-badge&logo=redhat&logoColor=white" />
 </p>
 
-- **Operating Systems:** RHEL / CentOS / AlmaLinux  
-- **Scripting:** Bash / Shell  
-
 ---
 
 ## 📂 Repo Structure  
 ```
-the-linux-diary/
-│── server-setup/ # Linux server configurations
+my-tech-journey/
+│── c-projects/ # C language projects & practice codes
+│── python-projects/ # Python automation & utilities
+│── linux-admin/ # Server setup & configs
 │── users-permissions/ # User, group & permission mgmt
 │── networking/ # DNS, DHCP, SSH, Samba etc.
 │── security/ # Firewall & security configs
 │── troubleshooting/ # Errors & fixes
 │── scripts/ # Bash/Shell scripts
-│── projects/ # Beginner Linux projects
+│── projects/ # Mini integrated projects
 ```
+  
 ---
 
 ## 📬 Connect With Me  
@@ -79,16 +84,13 @@ the-linux-diary/
 <p align="center">
   <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:jyotiswaroop.niit1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <!-- 🔥 Yaha Portfolio Button Add Kiya -->
   <a href="https://jyotiswaroop20.github.io/shandilya-portfolio-website/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge&logo=internet-explorer&logoColor=white"/>
   </a>
-  <!-- 🔥 Portfolio Button Yaha Khatam -->
 </p>
 
 📍 **Location:** Gorakhpur, Uttar Pradesh, India  
 
 ---
 
-<h3 align="center">🐧 Keep Learning, Keep Exploring, Keep Loving Linux 🐧</h3>
-
+<h3 align="center">💻 Keep Coding | 🐧 Keep Learning | 🚀 Keep Growing</h3>
