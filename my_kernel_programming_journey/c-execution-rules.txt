@@ -1,0 +1,14 @@
+Author कह रहे हैं कि वो programs को इस तरह compile करते हैं:
+
+gcc -Wall -Wextra -std=c23 -pedantic foo.c
+
+
+-Wall → सभी common warnings enable
+
+-Wextra → extra warnings enable
+
+-std=c23 → C23 standard follow करो
+
+-pedantic → strict checking enable
+
+👉 इससे code साफ़ और bug-free रखने में मदद मिलती है।
