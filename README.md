@@ -42,7 +42,7 @@ Here you’ll find:
   <!-- Linux -->
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/RHEL/CentOS/AlmaLinux-EE0000?style=for-the-badge&logo=redhat&logoColor=white" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg" width="50px"/>
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
 
   <!-- Web Servers -->
   <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" />
