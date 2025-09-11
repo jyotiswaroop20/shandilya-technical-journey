@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Jyotiswaroop Tripathi • Linux & Cloud Engineer Portfolio</title>
+  <meta name="description" content="Linux & Server Administrator | AWS Cloud & Cybersecurity Enthusiast | Git & Docker/Podman | Python & C for Automation"/>
+  <meta name="theme-color" content="#0f172a" />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🐧</text></svg>">
+  <style>
+    :root{--bg:#0b1020;--text:#e5e7eb;--muted:#94a3b8;--brand:#ff7518;--accent:#34d399;--glass:rgba(255,255,255,.08)}
+    body{margin:0;font-family:ui-sans-serif,system-ui,Segoe UI,Roboto,Inter;background:radial-gradient(1000px 700px at 70% -100px,rgba(255,117,24,.15),transparent 70%),radial-gradient(800px 600px at 10% -100px,rgba(52,211,153,.15),transparent 70%),var(--bg);color:var(--text);line-height:1.6}
+    *{box-sizing:border-box}
+    .wrap{max-width:1100px;margin:0 auto;padding:24px}
+    header{position:sticky;top:0;background:rgba(15,23,42,.9);border-bottom:1px solid var(--glass);z-index:10}
+    .nav{display:flex;align-items:center;gap:14px;max-width:1100px;margin:0 auto;padding:12px 24px}
+    .brand{font-weight:800;display:flex;align-items:center;gap:10px}
+    .brand .dot{width:12px;height:12px;border-radius:50%;background:conic-gradient(from 210deg,var(--brand),var(--accent))}
+    .nav a{color:var(--muted);text-decoration:none;padding:8px 10px;border-radius:10px;transition:.25s}
+    .nav a:hover{background:linear-gradient(90deg,var(--brand),var(--accent));color:#000}
+    .nav .cta{margin-left:auto;background:linear-gradient(90deg,var(--brand),var(--accent));color:#05101b;font-weight:800}
+    .hero{display:grid;grid-template-columns:1.1fr .9fr;gap:28px;align-items:center;padding:54px 0}
+    @media(max-width:900px){.hero{grid-template-columns:1fr}}
+    .card{background:linear-gradient(180deg,rgba(255,255,255,.06),transparent),#0b1229;border:1px solid var(--glass);border-radius:20px;padding:20px}
+    .title{font-size:42px;background:linear-gradient(90deg,#fff,var(--brand),#ff3b3b);-webkit-background-clip:text;color:transparent}
+    .badge{font-size:.55em;background:linear-gradient(90deg,var(--brand),var(--accent));padding:4px 10px;border-radius:999px;color:#05101b;margin-left:8px}
+    .chips{display:flex;flex-wrap:wrap;gap:10px;margin-top:16px}
+    .chip{border:1px dashed var(--glass);padding:6px 10px;border-radius:999px;font-size:12px;color:var(--muted)}
+    .chip:hover{background:linear-gradient(90deg,var(--brand),var(--accent));color:#000}
+    h2{font-size:26px;background:linear-gradient(90deg,var(--brand),var(--accent));-webkit-background-clip:text;color:transparent}
+    .grid{display:grid;grid-template-columns:repeat(12,1fr);gap:18px}
+    .span-6{grid-column:span 6}.span-4{grid-column:span 4}.span-8{grid-column:span 8}
+    @media(max-width:900px){.grid{grid-template-columns:1fr}.span-6,.span-4,.span-8{grid-column:span 1}}
+    .skills .skill{display:flex;justify-content:space-between;background:rgba(255,255,255,.02);padding:8px 12px;border-radius:12px;margin:4px 0}
+    .bar{height:6px;border-radius:10px;background:linear-gradient(90deg,var(--brand),var(--accent));width:var(--w,50%)}
+    .timeline{position:relative;padding-left:20px}
+    .timeline::before{content:"";position:absolute;left:8px;top:0;bottom:0;width:2px;background:linear-gradient(var(--brand),var(--accent))}
+    .tItem{position:relative;padding:12px;margin:12px 0;background:rgba(255,255,255,.02);border:1px solid var(--glass);border-radius:14px}
+    .proj{padding:12px;border:1px solid var(--glass);border-radius:14px;background:rgba(255,255,255,.02)}
+    .proj h3{margin:.2em 0}
+    .stats img{border-radius:12px;margin:10px 0;box-shadow:0 6px 18px rgba(0,0,0,.3)}
+    .footer{display:flex;justify-content:space-between;flex-wrap:wrap;padding:20px;border-top:1px solid var(--glass);margin-top:26px;color:var(--muted)}
+    .photoWrap{text-align:center}
+    .photo{width:220px;height:220px;border-radius:50%;border:5px solid var(--brand);background:#0a0f1e url('photo.jpg') center/cover no-repeat;box-shadow:0 0 25px rgba(255,117,24,.4);margin:0 auto}
+  </style>
+</head>
+<body>
+  <header>
+    <nav class="nav">
+      <div class="brand"><span class="dot"></span><span>Jyotiswaroop Tripathi</span></div>
+      <a href="#about">About</a><a href="#skills">Skills</a><a href="#cyber">Cybersecurity</a><a href="#projects">Projects</a><a href="#experience">Experience</a><a href="#education">Education</a><a href="#github">GitHub</a><a class="cta" href="#contact">Hire Me</a>
+    </nav>
+  </header>
+
+  <div class="wrap">
+    <!-- Hero -->
+    <section class="hero">
+      <div class="card">
+        <h2>👋 Hello / नमस्ते</h2>
+        <h1 class="title">Linux & Cloud Engineer <span class="badge">AWS & Security</span></h1>
+        <p>I build secure & automated infrastructures using <b>Linux</b>, <b>AWS</b>, <b>Docker/Podman</b>, <b>Git</b>, <b>GitAction</b>, <b>Python</b>, <b>Ansible</b> & <b>C</b>.</p>
+        <p id="typingLine"></p>
+        <div class="chips">
+          <span class="chip">📍 Gorakhpur, India</span>
+          <a class="chip" href="mailto:Jyotiswaroop.niit1@gmail.com">📧 Email</a>
+          <a class="chip" href="resume.pdf" download>⬇️ Resume</a>
+          <a class="chip" href="https://www.linkedin.com/in/jyoti-swaroop-mani-tripathi-741980379/" target="_blank">🔗 LinkedIn</a>
+          <a class="chip" href="https://github.com/jyotiswaroop20" target="_blank">💻 GitHub</a>
+        </div>
+      </div>
+      <!-- Photo Section -->
+      <div class="photoWrap">
+        <div class="photo" role="img" aria-label="Profile photo"></div>
+      </div>
+    </section>
+    </section>
+
+    <!-- About -->
+    <section id="about">
+      <h2>About Me</h2>
+      <div class="card">
+  <p>
+    I am a <b>self-taught Linux Administrator</b> and <b>Cloud Engineer</b> with RHCSA-level expertise. 
+    Currently working as an <b>Estate Manager (Admin & IT Support)</b>, where I manage operations, IT support, and routine Linux tasks. 
+    Alongside, I have built strong skills in <b>Linux System Administration, AWS Cloud, Cybersecurity, and Automation</b>, 
+    and I am actively seeking opportunities to transition into a full-time IT role.
+  </p>
+</div>
+
+    </section>
+
+    <!-- Skills -->
+    <section id="skills">
+      <h2>Technical Skills</h2>
+      <div class="grid">
+        <div class="span-6 card skills"><h3>System Administration</h3>
+          <div class="skill"><span>User/Group, ACLs, SELinux</span><div class="bar" style="--w:92%"></div></div>
+          <div class="skill"><span>Systemd, services, logging</span><div class="bar" style="--w:90%"></div></div>
+          <div class="skill"><span>Backup, Troubleshooting</span><div class="bar" style="--w:88%"></div></div>
+        </div>
+        <div class="span-6 card skills"><h3>Storage & Security</h3>
+          <div class="skill"><span>LVM, RAID, Stratis, VDO</span><div class="bar" style="--w:88%"></div></div>
+          <div class="skill"><span>Encryption (LUKS), Quota</span><div class="bar" style="--w:84%"></div></div>
+          <div class="skill"><span>Firewalld, Hardening</span><div class="bar" style="--w:82%"></div></div>
+        </div>
+        <div class="span-6 card skills"><h3>Cloud</h3>
+          <div class="skill"><span>Docker/Podman</span><div class="bar" style="--w:88%"></div></div>
+          <div class="skill"><span>AWS (EC2, S3, VPC, IAM)</span><div class="bar" style="--w:85%"></div></div>
+        </div>
+        <div class="span-6 card skills"><h3>Programming & Tools</h3>
+          <div class="skill"><span>Bash, Python, C</span><div class="bar" style="--w:82%"></div></div>
+          <div class="skill"><span>Ansible</span><div class="bar" style="--w:82%"></div></div>
+          <div class="skill"><span>VMware, Git/GitHub</span><div class="bar" style="--w:80%"></div></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Cybersecurity -->
+    <section id="cyber">
+      <h2>Cybersecurity Tasks</h2>
+      <div class="card"><ul>
+        <li>Performed <b>system hardening</b> on Linux servers.</li>
+        <li>Audited <b>user accounts & sudo</b> policies.</li>
+        <li>Monitored logs for <b>suspicious activity</b>.</li>
+        <li>Configured <b>firewall rules</b> & patch management.</li>
+      </ul></div>
+    </section>
+
+    <!-- Projects -->
+    <section id="projects">
+      <h2>Projects & Labs</h2>
+      <div class="grid">
+        <article class="proj span-4"><h3>Linux Services</h3><p>Configured Apache, FTP, SSH, Samba, DNS & DHCP with SELinux.</p></article>
+        <article class="proj span-4"><h3>Storage Stack</h3><p>LVM, RAID, Stratis, VDO with encryption, quotas & snapshots.</p></article>
+        <article class="proj span-4"><h3>AWS Hosting</h3><p>Static site hosting with S3, IAM roles & Route53 domain mapping.</p></article>
+        <article class="proj span-4"><h3>CI/CD Pipelines</h3><p>Automated builds & deployments using GitHub</p></article>
+        <article class="proj span-4"><h3>Docker Lab</h3><p>Run container & services with Docker/Podman</p></article>
+        <article class="proj span-4"><h3>Security Scripts</h3><p>Bash/Python tools for audits, monitoring & automation.</p></article>
+      </div>
+    </section>
+
+    <!-- Experience -->
+    <section id="experience">
+      <h2>Experience</h2>
+      <div class="timeline">
+        <div class="tItem"><strong>Estate Manager + IT Support Exposure</strong> — Metropolitan School • 2015 – Present<ul><li>Managed operations & vendor coordination.</li><li>Linux (CentOS) backups, user management.</li><li>Maintained lab: LAN, Wi-Fi, printers.</li></ul></div>
+      </div>
+    </section>
+
+    <!-- Education -->
+    <section id="education">
+      <h2>Education</h2>
+      <div class="grid">
+        <div class="span-6 card"><h3>BSc IT</h3><p>Kuvempu University • 2005–2008 • Grade-A</p></div>
+        <div class="span-6 card"><h3>GNIIT (Software Engg.)</h3><p>NIIT Delhi • 2009–2012 • Grade-A</p></div>
+        <div class="span-6 card"><h3>HSC (Science)</h3><p>Govt. Jubilee College • 61.6%</p></div>
+        <div class="span-6 card"><h3>SSC (Science)</h3><p>Govt. Jubilee College • 59.67%</p></div>
+      </div>
+    </section>
+
+    <!-- GitHub -->
+    <section id="github">
+      <h2>📊 GitHub Stats</h2>
+      <div class="card stats" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=jyotiswaroop20&show_icons=true&theme=radical" height="160px"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=jyotiswaroop20&theme=radical" height="160px"/><br/>
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=jyotiswaroop20&theme=redical&hide_border=true" width="100%"/><br/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyotiswaroop20&layout=compact&theme=radical" height="180px"/>
+      </div>
+    </section>
+
+    <!-- Contact -->
+    <section id="contact">
+      <h2>Contact</h2>
+      <div class="grid">
+        <div class="span-6 card"><p><b>Let’s collaborate!</b> Reach me via Email, LinkedIn, or WhatsApp.</p>
+          <div class="chips"><a class="chip" href="mailto:Jyotiswaroop.niit1@gmail.com">📨 Email</a><a class="chip" href="https://wa.me/917607588255" target="_blank">💬 WhatsApp</a><a class="chip" href="https://www.linkedin.com/in/jyoti-swaroop-mani-tripathi-741980379/" target="_blank">🔗 LinkedIn</a></div>
+        </div>
+        <div class="span-6 card"><h3>Availability</h3><p>Usually online 10 AM – 7 PM IST</p></div>
+      </div>
+    </section>
+
+    <footer class="footer"><span>© <span id="y"></span> Jyotiswaroop Tripathi</span><span>🐧 Made with Linux • Hosted on GitHub Pages</span></footer>
+  </div>
+
+  <script>
+    // Typing Effect
+    (function(){const line="Linux • Cloud • Security • Automation 🔥";const el=document.getElementById('typingLine');let i=0;(function tick(){if(i<line.length){el.textContent+=line.charAt(i++);setTimeout(tick,60);}})();})();
+    // Footer Year
+    document.getElementById('y').textContent=new Date().getFullYear();
+  </script>
+</body>
+</html>
