@@ -96,5 +96,3 @@ my-tech-journey/
 ---
 
 <h3 align="center">💻 Keep Coding | 🐧 Keep Learning | 🚀 Keep Growing</h3>
-
-<h3 align="center">💻 Keep Coding | 🐧 Keep Learning | 🚀 Keep Growing</h3>
