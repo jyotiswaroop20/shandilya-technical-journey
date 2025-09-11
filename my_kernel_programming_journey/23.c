@@ -14,7 +14,7 @@ int main(void)
     scanf("%d", &age3);
     if(age1 == age2 || age2 ==  age3 || age3 == age1 || age1 == age2 == age3)
     {
-        printf("Numbers should not be same\n");
+        printf("Ages should not be same\n");
     }
     else
     {
