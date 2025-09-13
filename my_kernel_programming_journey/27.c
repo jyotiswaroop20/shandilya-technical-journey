@@ -8,7 +8,7 @@ int main(void)
     {
         printf("%d %d\n", i ,j);
     }
-    system("sleep 10");
+    system("sleep 7");
     system("clear");
     return 0;
 }
