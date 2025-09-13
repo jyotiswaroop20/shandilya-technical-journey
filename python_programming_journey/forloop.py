@@ -10,6 +10,9 @@
 # for i in range(10, 0 , -1): # print value (10 ,9 ,8 ,7 , 6. 5 ,4, 3, 2, 1)
 #   print(i)
 
+# for i in range(10, 0 , -2): # print value (10, 8 ,6 ,4 ,2)
+#   print(i)
+
 input_valid = False
 
 while not input_valid:
