@@ -13,8 +13,8 @@ Here you’ll find:
 - My **C language projects** (logic building + system programming)  
 - My **Python projects** (automation + scripting)  
 - My **Linux learning notes, server configs, and troubleshooting examples**  
-- Hands-on **system administration, networking, and security setups**  
-- **Shell/Bash scripts** for automation  
+- Hands-on **system administration, networking, and automation setups**  
+- **Shell/Bash scripts** for automating tasks  
 
 > *“Code. Learn. Break. Fix. Repeat.”* — My Developer Journey ❤️
 
@@ -25,7 +25,6 @@ Here you’ll find:
 🔹 **Python Projects** → Automation scripts, system utilities, and practice codes  
 🔹 **Linux Admin & Servers** → Apache, Nginx, FTP, SSH, DNS, DHCP, Samba  
 🔹 **User, Group, and Permissions** → Complete user audit + access management  
-🔹 **Security** → Firewall, SELinux, and troubleshooting  
 🔹 **Shell/Bash Scripting** → Automating daily sysadmin tasks  
 🔹 **Mini Projects** → Combining C/Python/Linux into practical tools  
 
@@ -42,7 +41,6 @@ Here you’ll find:
   <!-- Linux -->
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/RHEL/CentOS/AlmaLinux-EE0000?style=for-the-badge&logo=redhat&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
 
   <!-- Web Servers -->
   <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" />
@@ -56,10 +54,6 @@ Here you’ll find:
   <!-- Databases -->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-
-  <!-- Security -->
-  <img src="https://img.shields.io/badge/Firewall-E53935?style=for-the-badge&logo=fortinet&logoColor=white" />
-  <img src="https://img.shields.io/badge/SELinux-795548?style=for-the-badge&logo=redhat&logoColor=white" />
 </p>
 
 ---
@@ -72,12 +66,13 @@ my-tech-journey/
 │── linux-admin/ # Server setup & configs
 │── users-permissions/ # User, group & permission mgmt
 │── networking/ # DNS, DHCP, SSH, Samba etc.
-│── security/ # Firewall & security configs
 │── troubleshooting/ # Errors & fixes
 │── scripts/ # Bash/Shell scripts
 │── projects/ # Mini integrated projects
 ```
   
+  
+---
   
 ---
 
