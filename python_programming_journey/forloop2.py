@@ -3,7 +3,7 @@ import os
 try:
     while True:
         os.system("clear")
-        num = int(input("Enter your value to print table: "))
+        num = int(input("Enter your value to print tablet: "))
         for i in range(1,11):
             if num == 0: #Indentation should be proper
                 print(f"Bro if you know the table of {num} then tell me")
