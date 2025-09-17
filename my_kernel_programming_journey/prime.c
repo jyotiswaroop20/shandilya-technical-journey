@@ -8,9 +8,12 @@ int main(void)
     char extra;
     system("clear");
     printf("Enter the number: ");
-    if(scanf("%d%c", &n,&extra) != 2 || extra != "\n")
+    if(scanf("%d%c", &n,&extra) != 2 || extra != '\n')
     {
-        printf("Invalid input ! enter integer only");
+        printf("Invalid Value! Enter Integer only \n");
+        system("sleep 5");
+        system("clear");
+        return 1;
     }
     else{
             for(int i = 2; i<n-1; i++)
