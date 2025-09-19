@@ -32,7 +32,6 @@ Here you’ll find:
 
 <p align="center">
   <!-- Programming -->
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
   
@@ -48,10 +47,7 @@ Here you’ll find:
   <img src="https://img.shields.io/badge/DNS-FF9800?style=for-the-badge&logo=cloudflare&logoColor=white" />
   <img src="https://img.shields.io/badge/DHCP-673AB7?style=for-the-badge&logo=ubiquiti&logoColor=white" />
   <img src="https://img.shields.io/badge/SSH-000000?style=for-the-badge&logo=openssh&logoColor=white" />
-  
-  <!-- Databases -->
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+
 </p>
 
 ---
