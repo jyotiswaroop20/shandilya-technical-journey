@@ -7,10 +7,9 @@
 ---
 
 ## 📖 About This Repo
-Welcome to **My Tech Journey** – a personal space where I document everything I’ve learned and built while exploring **C programming, Python, and Linux System Administration**.  
+Welcome to **My Tech Journey** – a personal space where I document everything I’ve learned and built while exploring **Bash Scripting, Python, and Linux System Administration**.  
 
 Here you’ll find:  
-- My **C language projects** (logic building + system programming)  
 - My **Python projects** (automation + scripting)  
 - My **Linux learning notes, server configs, and troubleshooting examples**  
 - Hands-on **system administration, networking, and automation setups**  
@@ -21,7 +20,6 @@ Here you’ll find:
 ---
 
 ## 🔧 What You'll Find Here  
-🔹 **C Language Projects** → Small to medium projects built after fully learning C  
 🔹 **Python Projects** → Automation scripts, system utilities, and practice codes  
 🔹 **Linux Admin & Servers** → Apache, Nginx, FTP, SSH, DNS, DHCP, Samba  
 🔹 **User, Group, and Permissions** → Complete user audit + access management  
@@ -61,7 +59,6 @@ Here you’ll find:
 ## 📂 Repo Structure  
 ```
 my-tech-journey/
-│── c-projects/ # C language projects & practice codes
 │── python-projects/ # Python automation & utilities
 │── linux-admin/ # Server setup & configs
 │── users-permissions/ # User, group & permission mgmt
