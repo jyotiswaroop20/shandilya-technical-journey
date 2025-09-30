@@ -1,0 +1,6 @@
+Name: Aditya Tripathi
+Age: 23
+Father Name: Onkar Tripathi
+Mother Name: Nisha Tripathi
+Address: Lucknow(UP)
+------------------------------
