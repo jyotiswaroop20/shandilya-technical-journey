@@ -130,14 +130,6 @@ System will reboot → SELinux will relabel automatically → 🎉 Login with yo
 
 ---
 
-## 🎬 Demo Flow (Animated)
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlQ7LRalM1qF8Ji/giphy.gif" width="500" alt="rescue mode boot" />
-</p>
-
----
-
 ## 💡 Pro Tips
 - Always keep **installation ISO/DVD handy** for rescue.  
 - If no ISO, you may try `init=/bin/bash` method in GRUB as fallback.  
